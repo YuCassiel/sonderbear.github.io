@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: 
+email: cassieldyf@163.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
@@ -13,9 +13,20 @@ default_img:
 # Profile settings
 name: SonderBear
 profile_img: https://pic.images.ac.cn/image/5e7a6db282682
-profile: 互联网搬砖者/阿尔茨海默疑似患者
+profile: 
+
+SonderBear
+
+互联网搬砖者
+
+阿尔茨海默疑似患者
+
+在这里记录生活、分享成长
+
+只装可爱不装×
+
 social:
-  github: 
+github: 
 
 # Build settings
 markdown: kramdown
