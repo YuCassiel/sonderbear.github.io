@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hello, SonderBear"
-date: 2020-02-25
+date: 2020-03-25
 categories:
-  - About SonderBear
+  - AboutSonderBear
 description:
 image: https://pic.images.ac.cn/image/5e7a63132c7c2
 image-sm: https://pic.images.ac.cn/image/5e7a63132c7c2
