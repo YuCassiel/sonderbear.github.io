@@ -5,8 +5,8 @@ date: 2020-03-25
 categories:
   - AboutSonderBear
 description:
-image: https://pic.images.ac.cn/image/5e7a63132c7c2
-image-sm: https://pic.images.ac.cn/image/5e7a63132c7c2
+image: https://s1.ax1x.com/2020/04/20/J3ield.jpg
+image-sm: https://s1.ax1x.com/2020/04/20/J3ield.jpg
 ---
 
 一个人走在路上
