@@ -5,8 +5,8 @@ date: 2020-05-05
 categories:
    - 营销活动
 description:
-image: https://s1.ax1x.com/2020/05/06/Yk5mLT.jpg
-image-sm: https://s1.ax1x.com/2020/05/06/Yk5mLT.jpg
+image: https://s1.ax1x.com/2020/05/06/YkoSUg.jpg
+image-sm: https://s1.ax1x.com/2020/05/06/YkoSUg.jpg
 ---
 
 #### 活动目的
@@ -81,7 +81,7 @@ Photo Contest活动最契合的平台是Instagram，主要考虑有三点：1. I
 
 做完了情景视频，我们利用图片素材，做了一个简单明了图片轮播视频。
 
-
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FZaful%2Fvideos%2F2356610857701928%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 #### 活动上线
 1月26号，我们在Instagram以情景短视频形式上线了活动。根据当时的记录，观看量达到了61286，点赞4570，评论110。1月30号，以轮播视频形式再次提醒粉丝参加活动，观看量达到29580，点赞2415，评论83。
