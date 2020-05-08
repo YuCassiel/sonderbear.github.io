@@ -101,6 +101,6 @@ Photo Contest活动最契合的平台是Instagram，主要考虑有三点：1. I
 
 ##### 2. 活动转化
 
-活动期间，Zaful SNS 整体销售环比增长了18%，Instagram渠道流量环比增长了20%，销售环比增长22%。
+活动期间，整体销售环比增长20%，实现淡季以来业绩首次好转。Instagram渠道流量环比增30%，销售环比增长25%
 
 <img src="https://s1.ax1x.com/2020/05/06/YkI1HS.png" alt="YkI1HS.png" border="0" />
