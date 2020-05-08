@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "以情人节活动#ZafulVday为例讲讲Photo Contest Giveaway怎么做"
+title: "以情人节活动#ZafulVday为例讲讲Photo Contest怎么做"
 date: 2020-05-05
 categories:
    - 营销活动
@@ -75,11 +75,11 @@ Photo Contest活动最契合的平台是Instagram，主要考虑有三点：1. I
 
 <img src="https://s1.ax1x.com/2020/05/06/YkfesO.jpg" alt="YkfesO.jpg" border="0" />
 
-整个策划和跟进活动物料的过程虽然比较繁杂，但是过程还是挺有趣的。对了，这儿还有一个拍摄花絮：
+整个策划和跟进活动物料的过程虽然比较繁杂，但是过程还是挺有趣的。拍摄花絮：
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FZaful%2Fvideos%2F2316951581667856%2F&show_text=0&width=560" width="560" height="317" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-做完了情景视频，我们利用图片素材，做了一个简单明了图片轮播视频。
+做完了情景视频，我们用图片素材做了一个简单的图片轮播作为二次宣传素材。
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FZaful%2Fvideos%2F2356610857701928%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
