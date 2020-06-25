@@ -5,7 +5,7 @@ date: 2020-05-05
 categories:
    - 营销活动
 description:
-image: https://s1.ax1x.com/2020/05/06/YkoSUg.jpg
+image: https://s1.ax1x.com/2020/06/25/NBBJ6e.jpg
 image-sm: https://s1.ax1x.com/2020/05/06/YkoSUg.jpg
 ---
 
