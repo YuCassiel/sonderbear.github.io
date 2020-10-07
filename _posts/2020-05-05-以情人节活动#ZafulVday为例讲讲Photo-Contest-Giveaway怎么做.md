@@ -3,7 +3,7 @@ layout: post
 title: "以情人节活动#ZafulVday为例讲讲Photo Contest怎么做"
 date: 2020-05-05
 categories:
-   - 营销活动
+   - 活动营销
 description:
 image: https://s1.ax1x.com/2020/06/25/NBBJ6e.jpg
 image-sm: https://s1.ax1x.com/2020/05/06/YkoSUg.jpg
