@@ -5,8 +5,8 @@ date: 2020-08-01
 categories:
    - 网红营销
 description:
-image: https://s1.ax1x.com/2020/10/07/0aONkR.jpg
-image-sm: https://s1.ax1x.com/2020/10/07/0aONkR.jpg
+image: https://s1.ax1x.com/2020/10/07/0dVE8O.jpg
+image-sm: https://s1.ax1x.com/2020/10/07/0dVE8O.jpg
 ---
 
 从Instagram、Facebook到现在的YouTube、TikTok，可以说我毕业以来都在从事与Influencer Marketing相关的工作。乍听起来很简单，无非就是给钱让网红推销服务或者产品。但如果要用一句话简单而全面地解释Influencer Marketing是做什么的，该怎么说呢？7月底准备答辩，让我重新思考这个问题。
