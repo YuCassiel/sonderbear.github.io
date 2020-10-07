@@ -3,7 +3,7 @@ layout: post
 title: "Hello, SonderBear"
 date: 2020-03-25
 categories:
-  - AboutSonderBear
+  - SonderBear
 description:
 image: https://s1.ax1x.com/2020/04/20/J3ield.jpg
 image-sm: https://s1.ax1x.com/2020/04/20/J3ield.jpg
