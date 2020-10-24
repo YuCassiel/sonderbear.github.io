@@ -5,8 +5,8 @@ date: 2020-08-01
 categories:
    - 网红营销
 description:
-image: https://s1.ax1x.com/2020/10/07/0dKGR0.jpg
-image-sm: https://s1.ax1x.com/2020/10/07/0dKGR0.jpg
+image: https://s1.ax1x.com/2020/10/24/BZGyo6.jpg
+image-sm: https://s1.ax1x.com/2020/10/24/BZGyo6.jpg
 ---
 
 "品效合一"可以说是每个营销人员的理想追求，“品”即品牌效应，“效”即销售转化。但在实际的营销活动中要兼顾两者非常难。
